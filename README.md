@@ -28,7 +28,6 @@ We also built prediction models and made an interactive dashboard using Power BI
 - `matches.csv` – match information
 - `deliveries.csv` – ball-by-ball details
 - `ipl.ipynb` – main analysis notebook
-- `ipl.html` – exported notebook
 - `top_players.csv`, `venue_scores.csv` – prepared data files
 - `PowerBI_Dashboard.pbix` – dashboard file
 
@@ -53,10 +52,8 @@ We also built prediction models and made an interactive dashboard using Power BI
 ---
 
 ## References
-- [IPL Official Website](https://www.iplt20.com/)
-- [IPL Dataset from Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-2008-2020)
-- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
-
+- IPL Dataset from Kaggle
+- 
 ---
 
 That’s it!  
