@@ -53,7 +53,6 @@ We also built prediction models and made an interactive dashboard using Power BI
 
 ## References
 - IPL Dataset from Kaggle
-- 
 ---
 
 That’s it!  
